@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dealership-Application/1.0.0": {
+        "dependencies": {
+          "Dealership-Domain": "1.0.0"
+        },
+        "runtime": {
+          "Dealership-Application.dll": {}
+        }
+      },
+      "Dealership-Domain/1.0.0": {
+        "runtime": {
+          "Dealership-Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dealership-Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dealership-Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\bin\Debug\net6.0\Dealership-Application.deps.json
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\bin\Debug\net6.0\Dealership-Application.dll
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\bin\Debug\net6.0\Dealership-Application.pdb
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\obj\Debug\net6.0\Dealership-Application.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\obj\Debug\net6.0\Dealership-Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\obj\Debug\net6.0\Dealership-Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\obj\Debug\net6.0\Dealership-Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\obj\Debug\net6.0\Dealership-Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\obj\Debug\net6.0\Dealership-Application.dll
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\obj\Debug\net6.0\refint\Dealership-Application.dll
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\obj\Debug\net6.0\Dealership-Application.pdb
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\obj\Debug\net6.0\ref\Dealership-Application.dll
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\bin\Debug\net6.0\Dealership-Domain.dll
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\bin\Debug\net6.0\Dealership-Domain.pdb
+C:\Users\Asus\Desktop\Reto\Dealership\Dealership-Application}\obj\Debug\net6.0\Dealership-Application.csproj.CopyComplete
